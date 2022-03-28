@@ -10,7 +10,7 @@ Learn the characteristics of customer groups of Kira Plastinina
 Provide comparisons between K-Means clustering vs Hierarchical clustering highlighting the strengths and limitations of each approach in the context of your analysis.
 The metric of sucess will be to perform clustering and stating insights drawn from your analysis and visualizations.
 
-Project Link: https://rpubs.com/oprah_muthoni/Kmeans_Clustering
+Project Link: https://rpubs.com/MuthoniOprah/883343
 
 # 2nd Project
 
