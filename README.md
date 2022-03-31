@@ -24,7 +24,7 @@ Identify which individuals are most likely to click on the ads.
 Create a model that will predict whether an individual is most likely to click on the ad.
 Metric of success will be an accuracy score of 85%.
 
-Project Link: https://rpubs.com/oprah_muthoni/R_Supervised
+Project Link: https://rpubs.com/MuthoniOprah/884563
 
 ## Tools Used
 
